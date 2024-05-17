@@ -30,6 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shazaib-shiraz&show_icons=true&locale=en&layout=compact" alt="shazaib-shiraz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazaib-shiraz&show_icons=true&locale=en" alt="shazaib-shiraz" /></p>
-
-<p><img align="center" alt="the end" height="100" width="800" src="https://www.icegif.com/wp-content/uploads/icegif-852.gif">
-
