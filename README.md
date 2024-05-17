@@ -31,4 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazaib-shiraz&show_icons=true&locale=en" alt="shazaib-shiraz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shazaib-shiraz&" alt="shazaib-shiraz" /></p>
+<p><img align="center" alt="the end" height="100" width="800" src="https://www.icegif.com/wp-content/uploads/icegif-852.gif">
+
